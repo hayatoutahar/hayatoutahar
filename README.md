@@ -1,12 +1,12 @@
 # Hayat Outahar
 
-I work on digital sovereignty, technological governance, and ethical innovation.  
-My focus is the strategic use of emerging technologies to strengthen autonomy, accountability, and public trust.
+I work on digital sovereignty, technological governance and ethical innovation.  
+My focus is the strategic use of emerging technologies to strengthen autonomy, accountability and public trust.
 
 ## Focus areas
 - Digital sovereignty and geopolitical dependencies in the digital space
 - Governance models for complex technological systems (public, private, hybrid)
-- Responsible AI, accountability, and institutional resilience
+- Responsible AI, accountability and institutional resilience
 - Blockchain and distributed infrastructures for transparency and coordination
 - Civic and public-interest innovation, with a pragmatic approach
 
@@ -23,4 +23,4 @@ I combine:
 
 ## Relationship with technology
 I treat technology as a tool of power.  
-My priority is to align innovation with empowerment, sovereignty, and ethical progress.
+My priority is to align innovation with empowerment, sovereignty and ethical progress.
