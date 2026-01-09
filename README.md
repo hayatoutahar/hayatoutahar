@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hayat Outahar
 
-<!--
-**hayatoutahar/hayatoutahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on digital sovereignty, technological governance, and ethical innovation.  
+My focus is the strategic use of emerging technologies to strengthen autonomy, accountability, and public trust.
 
-Here are some ideas to get you started:
+## Focus areas
+- Digital sovereignty and geopolitical dependencies in the digital space
+- Governance models for complex technological systems (public, private, hybrid)
+- Responsible AI, accountability, and institutional resilience
+- Blockchain and distributed infrastructures for transparency and coordination
+- Civic and public-interest innovation, with a pragmatic approach
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current projects
+- Writing and publishing strategic analyses on digital sovereignty and global power dynamics
+- Developing educational content and workshops on digital innovation for decision-makers
+- Building frameworks to evaluate technology choices through sovereignty, risk, and ethics lenses
+
+## Method
+I combine:
+- grounded analysis (facts, institutions, incentives, governance constraints)
+- systems thinking (interdependencies, second-order effects, long-term trajectories)
+- actionable outputs (frameworks, decision guides, training material)
+
+## Relationship with technology
+I treat technology as a tool of power.  
+My priority is to align innovation with empowerment, sovereignty, and ethical progress.
